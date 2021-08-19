@@ -1,7 +1,7 @@
 ## Oi! Sou Daniel Balan
 
 - 🔭 Hoje trabalho como Analista de Suporte e Sustentabilidade
-- 🌱 Estudando Ruby on Rails e React
+- 🌱 Estudando Ruby on Rails, JS e React
 - 😄 Pronouns: ele/dele
 
 <div>
