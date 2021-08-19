@@ -1,4 +1,4 @@
-## Olá! Sou Daniel Balan
+## Oi! Sou Daniel Balan
 
 - 🔭 Hoje trabalho como Analista de Suporte e Sustentabilidade
 - 🌱 Estudando Ruby on Rails e React
